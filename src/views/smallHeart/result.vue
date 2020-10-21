@@ -26,7 +26,8 @@
     props: ['count', 'question', 'title'],
     data() {
       return {
-        titleList: [{ title: '玉女无痕手', num: 0 }, { title: '兰花拂穴手', num: 40 }, { title: '隔空点穴手', num: 60 }, { title: '葵花点穴手', num: 100 }]
+        // titleList: [{ title: '玉女无痕手', num: 0 }, { title: '兰花拂穴手', num: 40 }, { title: '隔空点穴手', num: 60 }, { title: '葵花点穴手', num: 100 }]
+        titleList: [{ title: '最帅张家乐', num: 20 }, { title: '最美袁度', num: 40 }, { title: '最渣王彬', num: 60 }, { title: '最骚杨招', num: 80 }]
       }
     },
     methods: {
